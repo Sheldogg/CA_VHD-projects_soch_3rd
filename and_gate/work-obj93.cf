@@ -1,7 +1,7 @@
 v 4
-file / "D:\college\vscode\VHDL projects\and_gate\and_gate_tb.vhdl" "1b403ee5cbe49313091b33b319c1109ed03018e4" "20241227123841.129":
-  entity and_gate_tb at 2( 20) + 0 on 15;
-  architecture behavior of and_gate_tb at 8( 110) + 0 on 16;
-file / "D:\college\vscode\VHDL projects\and_gate\and_gate.vhdl" "bd6b0fb7c74d61cac7df756a1d5529d7371892b2" "20241227123841.098":
-  entity and_gate at 1( 0) + 0 on 13;
-  architecture behavioral of and_gate at 10( 178) + 0 on 14;
+file . "and_gate_tb.vhdl" "4fefa36c86043873483db48d0a9c4ab6cf0c50e3" "20241228010130.003":
+  entity and_gate_tb at 1( 0) + 0 on 13;
+  architecture behavior of and_gate_tb at 11( 100) + 0 on 14;
+file . "and_gate.vhdl" "daaa0c9edb16b97b98fdd8234a6d02fef21c3dc2" "20241228010119.375":
+  entity and_gate at 1( 0) + 0 on 11;
+  architecture and_logic of and_gate at 13( 208) + 0 on 12;

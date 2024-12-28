@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 09:20:21 2024
+[*]
+[dumpfile] "D:\college\vscode\VHDL projects\EXOR_gate\exor_gate_tb.vcd"
+[dumpfile_mtime] "Sat Dec 28 09:17:35 2024"
+[dumpfile_size] 543
+[savefile] "D:\college\vscode\VHDL projects\EXOR_gate\gtkwaveform_exor_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 277 11
+*-23.502890 17650000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] exor_gate_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+exor_gate_tb.uut.a
+exor_gate_tb.uut.b
+exor_gate_tb.uut.y
+[pattern_trace] 1
+[pattern_trace] 0

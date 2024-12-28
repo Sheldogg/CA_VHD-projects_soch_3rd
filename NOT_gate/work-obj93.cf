@@ -1,0 +1,7 @@
+v 4
+file . "not_gate_tb.vhdl" "a66667e8d8a0d11ba63be3dff914d42ac2429f9a" "20241228085725.999":
+  entity not_gate_tb at 1( 0) + 0 on 17;
+  architecture behavioral of not_gate_tb at 7( 90) + 0 on 18;
+file . "not_gate.vhdl" "9f330f5d56deedccc6b708b7f0a82df6d9c583b8" "20241228085720.640":
+  entity not_gate at 1( 0) + 0 on 15;
+  architecture behavioral of not_gate at 11( 181) + 0 on 16;

@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 09:31:24 2024
+[*]
+[dumpfile] "D:\college\vscode\VHDL projects\full adder\full_adder_tb.vcd"
+[dumpfile_mtime] "Sat Dec 28 09:28:37 2024"
+[dumpfile_size] 806
+[savefile] "D:\college\vscode\VHDL projects\full adder\gtkwaveform_full_adder.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 245 -60
+*-24.502890 34400000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+full_adder_tb.a
+full_adder_tb.b
+full_adder_tb.cin
+full_adder_tb.cout
+full_adder_tb.sum
+[pattern_trace] 1
+[pattern_trace] 0

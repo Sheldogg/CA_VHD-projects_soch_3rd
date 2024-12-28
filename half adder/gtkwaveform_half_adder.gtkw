@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 09:36:47 2024
+[*]
+[dumpfile] "D:\college\vscode\VHDL projects\half adder\half_adder_tb.vcd"
+[dumpfile_mtime] "Sat Dec 28 09:35:23 2024"
+[dumpfile_size] 612
+[savefile] "D:\college\vscode\VHDL projects\half adder\gtkwaveform_half_adder.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 268 25
+*-23.502890 33100000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] half_adder_tb.
+[sst_width] 197
+[signals_width] 81
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+half_adder_tb.uut.a
+half_adder_tb.uut.b
+half_adder_tb.uut.cout
+half_adder_tb.uut.sum
+[pattern_trace] 1
+[pattern_trace] 0

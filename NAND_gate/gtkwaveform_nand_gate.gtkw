@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 09:05:00 2024
+[*]
+[dumpfile] "D:\college\vscode\VHDL projects\NAND_gate\nand_gate_tb.vcd"
+[dumpfile_mtime] "Sat Dec 28 09:02:27 2024"
+[dumpfile_size] 535
+[savefile] "D:\college\vscode\VHDL projects\NAND_gate\gtkwaveform_nand_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 182 33
+*-23.502890 24900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+nand_gate_tb.a
+nand_gate_tb.b
+nand_gate_tb.y
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,21 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Dec 28 08:59:51 2024
+[*]
+[dumpfile] "D:\college\vscode\VHDL projects\NOT_gate\not_gate_tb.vcd"
+[dumpfile_mtime] "Sat Dec 28 08:58:06 2024"
+[dumpfile_size] 484
+[savefile] "D:\college\vscode\VHDL projects\NOT_gate\gtkwaveform_not_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 423 171
+*-22.729935 12340000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 176
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+not_gate_tb.input_signal
+not_gate_tb.output_signal
+[pattern_trace] 1
+[pattern_trace] 0
